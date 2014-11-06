@@ -8,7 +8,7 @@ Files changed after **$ rails new**
 [jqui_demo/app/assets/stylesheets/application.css](https://github.com/tysonhenry/jqui_demo/blob/master/app/assets/stylesheets/application.css) to include jquery-ui CSS
 
 [jqui_demo/app/assets/javascripts/application.js](https://github.com/tysonhenry/jqui_demo/blob/master/app/assets/javascripts/application.js) to include jquery-ui JS
-=========
+---
 
 Files created after **$ rails new**
 
