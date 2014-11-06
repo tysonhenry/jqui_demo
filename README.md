@@ -1,6 +1,8 @@
 Very simple rails application using JQuery-UI
 =========
 
+The running application is hosted at: [cins465.us/jqui_demo](http://cins465.us/jqui_demo)
+
 Files changed after **$ rails new**
 
 [jqui_demo/config/routes.rb](https://github.com/tysonhenry/jqui_demo/blob/master/config/routes.rb) to make home#index the root page
