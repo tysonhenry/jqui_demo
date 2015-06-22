@@ -5,6 +5,8 @@ The running application is hosted at: [cins465.us/jqui_demo](http://cins465.us/j
 
 Files changed after **$ rails new**
 
+[jqui_demo/Gemfile](https://github.com/tysonhenry/jqui_demo/blob/master/Gemfile) to add gem 'jquery-ui-rails'
+
 [jqui_demo/config/routes.rb](https://github.com/tysonhenry/jqui_demo/blob/master/config/routes.rb) to make home#index the root page
 
 [jqui_demo/app/assets/stylesheets/application.css](https://github.com/tysonhenry/jqui_demo/blob/master/app/assets/stylesheets/application.css) to include jquery-ui CSS
