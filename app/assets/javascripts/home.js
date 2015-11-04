@@ -3,6 +3,9 @@
 $(function() {
   $( "#accordion" ).accordion();
 });
+$(function() {
+  $( "#accordion2" ).accordion();
+});
 
 $(function() {
   $( "#tabs" ).tabs();
